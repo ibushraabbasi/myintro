@@ -200,10 +200,7 @@ img {
   margin: 0 auto;
   margin-bottom: 6rem;
 }
-img{
-  height: 100px;
-  width: 100px;
-}
+
 @media (max-width: 30.625em) {
   .projects-section {
     padding: 6rem 1rem;
