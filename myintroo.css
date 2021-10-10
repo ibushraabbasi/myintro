@@ -97,7 +97,9 @@ span{
 }
 img {
   width: 70%;
-  height: 50%;
+ border-radius: var(--radius);
+  max-width: 25rem;
+  max-height: 30rem;
 }
 /* nav */
 .nav {
